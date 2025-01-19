@@ -8,6 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+Incomplete: Decoder that takes in a number (0-7) and displays a number. Only one of the segments was complete. 
 
 Explain how your project works
 
