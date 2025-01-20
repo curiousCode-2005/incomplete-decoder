@@ -2,7 +2,7 @@
 project:
   wokwi_id:     354858054593504257       # Set this to the ID of your Wokwi project (the number from the project's URL)
   title:        "decoder"      # Project title
-  author:       "Me"      # Your name
+  author:       "Jai"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "incomplete decoder"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
